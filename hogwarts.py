@@ -14,5 +14,3 @@ students = {
 
 for student in students:
     print(student, students[student], sep=": ")
-
-# stopped at 56:29 at week 2 loops
