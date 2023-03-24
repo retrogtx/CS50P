@@ -1,3 +1,7 @@
 {
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "files.associations": {
+        "cpr1.C": "cpp",
+        "cpr2.C": "cpp"
+    }
 }
