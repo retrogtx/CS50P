@@ -3,5 +3,9 @@
     "files.associations": {
         "cpr1.C": "cpp",
         "cpr2.C": "cpp"
-    }
+    },
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
 }
